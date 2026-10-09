@@ -1,6 +1,6 @@
 # 将项目发布到自己的 GitHub（3 分钟操作）
 
-本项目已生成完整仓库内容，但还没有在 GitHub 上创建远程仓库。请先由仓库所有者创建仓库，或在已授权的 GitHub 工具中完成创建。
+本项目已于 **2026-10-09** 发布到公开仓库 [AIPMAndy/HowToBeAnAICreator](https://github.com/AIPMAndy/HowToBeAnAICreator)，并配置 GitHub Pages：[在线互动手册](https://aipmandy.github.io/HowToBeAnAICreator/)。当前仓库后续更新只需提交改动后 `git push`；以下创建步骤供首次发布或 Fork 参考。
 
 ## 最简单的网页上传方式
 

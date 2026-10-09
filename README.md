@@ -10,10 +10,10 @@
 
 [![License: CC BY 4.0](https://img.shields.io/badge/内容协议-CC_BY_4.0-2d5a81)](LICENSE-CONTENT.md)
 [![Code: MIT](https://img.shields.io/badge/代码协议-MIT-18794e)](LICENSE)
-[![Static Site](https://img.shields.io/badge/网站-纯静态_无后端-455a64)](docs/index.html)
+[![Static Site](https://img.shields.io/badge/网站-纯静态_无后端-455a64)](https://aipmandy.github.io/HowToBeAnAICreator/)
 [![Author](https://img.shields.io/badge/作者-AI酋长Andy-315dff)](https://github.com/AIPMAndy)
 
-**[开始第一条作品](#5-步完成第一条-ai-视频) · [网页版源码](docs/index.html) · [离线单文件（打开文件页后点 Raw 下载）](docs/offline.html) · [完整案例](examples/ai-resume-walkthrough.md) · [复制模板](templates/) · [AI Skill](skills/ai-creator-guide/SKILL.md)**
+**[开始第一条作品](#5-步完成第一条-ai-视频) · [在线互动手册](https://aipmandy.github.io/HowToBeAnAICreator/) · [离线单文件（打开文件页后点 Raw 下载）](docs/offline.html) · [完整案例](examples/ai-resume-walkthrough.md) · [复制模板](templates/) · [AI Skill](skills/ai-creator-guide/SKILL.md)**
 
 </div>
 
@@ -83,7 +83,7 @@
 
 | 想做什么 | 入口 |
 | --- | --- |
-| 按关键词、优先级和章节搜索所有操作卡，并勾选或导出进度 | [网页版源码](docs/index.html)（仓库开通 GitHub Pages 后可在线用） |
+| 按关键词、优先级和章节搜索所有操作卡，并勾选或导出进度 | [在线互动手册](https://aipmandy.github.io/HowToBeAnAICreator/) · [网页版源码](docs/index.html) |
 | 断网也能搜索、勾选进度，30 天打卡可导出/导入 | [离线版 HTML](docs/offline.html)，下载后直接双击 |
 | 完整跟拍“AI 改简历”第一条视频 | [跟拍案例](examples/ai-resume-walkthrough.md) |
 | 30 天每天做什么 | [30 天执行清单](templates/30-day-plan.csv) |
@@ -122,7 +122,7 @@ python3 tools/build.py
 python3 -m unittest discover -s tests -v
 ```
 
-GitHub Pages：仓库创建并公开后，在 **Settings → Pages → Deploy from a branch → main /docs** 中启用；站点路径将是 `https://AIPMAndy.github.io/HowToBeAnAICreator/`（启用前不可访问）。详见 [部署说明](DEPLOY.md)。
+GitHub Pages 已启用：[在线互动手册](https://aipmandy.github.io/HowToBeAnAICreator/)。站点从 `main` 分支的 `/docs` 目录部署，后续推送会自动更新。详见 [部署说明](DEPLOY.md)。
 
 ## 质量审查与可验证性
 
