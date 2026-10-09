@@ -13,7 +13,7 @@
 [![Static Site](https://img.shields.io/badge/网站-纯静态_无后端-455a64)](https://aipmandy.github.io/HowToBeAnAICreator/)
 [![Author](https://img.shields.io/badge/作者-AI酋长Andy-315dff)](https://github.com/AIPMAndy)
 
-**[开始第一条作品](#5-步完成第一条-ai-视频) · [在线互动手册](https://aipmandy.github.io/HowToBeAnAICreator/) · [离线单文件（打开文件页后点 Raw 下载）](docs/offline.html) · [完整案例](examples/ai-resume-walkthrough.md) · [复制模板](templates/) · [AI Skill](skills/ai-creator-guide/SKILL.md)**
+**[开始第一条作品](#5-步完成第一条-ai-视频) · [在线互动手册](https://aipmandy.github.io/HowToBeAnAICreator/) · [离线单文件（打开文件页后点 Raw 下载）](docs/offline.html) · [完整案例](examples/ai-resume-walkthrough.md) · [复制模板](templates/) · [AI Skill](skills/ai-creator-guide/SKILL.md) · [Andy 官网](https://metaver.vip/)**
 
 </div>
 
@@ -133,6 +133,15 @@ GitHub Pages 已启用：[在线互动手册](https://aipmandy.github.io/HowToBe
 欢迎提交新的真实实测、勘误、官方规则更新、模板改进。每项贡献最好包含：问题、可复现步骤、示例输入、实际输出或准确出处、适用边界。不要上传用户简历、聊天记录、合同、客户姓名等隐私资料。详见 [贡献指南](CONTRIBUTING.md)。
 
 如果这份攻略帮你发出了自己的第一条内容，欢迎 Star ⭐，也欢迎用 Issue 分享你最卡的一步。我们会优先改善有真实反馈的步骤。
+
+## 咨询与联系（按需选择）
+
+手册持续免费开放。如果你想聊聊 AI 创作、个人 IP 定位、AI 应用与副业起步，或求职与职业转型，可以联系作者 **AI 酋长 Andy**。
+
+- 微信：**AIPMAndy**，添加时备注想聊的问题，简单说说目前的情况。
+- 官网：[metaver.vip](https://metaver.vip/)，先了解作者与咨询方向。
+
+咨询按需选择，服务范围与费用先沟通确认；不承诺涨粉、收入或求职结果。
 
 ## 开源协议与作者
 

@@ -17,6 +17,8 @@ for i,(k,rows) in enumerate(groups.items(),1):
   lines+=['',f"**验收物：**{r['output']}",f"**注意：**{r['pitfall']}"]
   if r['sources']:lines+=['','**原始入口/依据：**']+[f'- {url}' for url in r['sources']]
   lines+=['','---','']
+ if k in ('定位','变现'):
+  lines+=['## 作者咨询服务（按需选择）','','想聊聊 AI 创作、个人 IP 定位、AI 应用与副业起步，或求职与职业转型，可以联系 AI 酋长 Andy。微信：**AIPMAndy**，添加时备注想聊的问题。也可以先看 [Andy 官网](https://metaver.vip/)。','','手册持续免费开放。咨询按需选择，服务范围与费用先沟通确认；不承诺涨粉、收入或求职结果。']
  (OUT/f'{i:02d}-{k}.md').write_text('\n'.join(lines).rstrip()+'\n',encoding='utf-8')
 (WEB/'data'/'cards.json').write_text(json.dumps(cards,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
 # 30 day plan
