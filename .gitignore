@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.DS_Store
+.vscode/
+dist/
+.tmp/
+browser_progress_test.json
+v2_desktop.png
+v2_mobile.png
