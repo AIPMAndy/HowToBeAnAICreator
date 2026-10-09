@@ -87,10 +87,10 @@ example_path.write_text(web_text,encoding='utf8')
 homepage=(WEB/'index.html').read_text(encoding='utf8')
 css=(WEB/'assets'/'site.css').read_text(encoding='utf8')
 js=(WEB/'assets'/'site.js').read_text(encoding='utf8')
-homepage=homepage.replace('<link rel="stylesheet" href="assets/site.css">',f'<style>{css}</style>')
+homepage=re.sub(r'<link rel="stylesheet" href="assets/site\.css(?:\?[^"<>]*)?">',lambda m:f'<style>{css}</style>',homepage)
 homepage=re.sub(r'<link rel="icon"[^>]+>', '',homepage)
-homepage=homepage.replace('<script src="assets/site.js" defer></script>',
-'<script id="embedded-data" type="application/json">'+json.dumps(cards,ensure_ascii=False).replace('</','<\\/')+'</script><script id="embedded-tasks" type="application/json">'+json.dumps(task_objects,ensure_ascii=False).replace('</','<\\/')+'</script><script>'+js+'</script>')
+homepage=re.sub(r'<script src="assets/site\.js(?:\?[^"<>]*)?" defer></script>',lambda m:
+'<script id="embedded-data" type="application/json">'+json.dumps(cards,ensure_ascii=False).replace('</','<\\/')+'</script><script id="embedded-tasks" type="application/json">'+json.dumps(task_objects,ensure_ascii=False).replace('</','<\\/')+'</script><script>'+js+'</script>',homepage)
 # offline links stay useful: complete example is in the file; 30-day CSV is embedded as download data URL.
 import base64
 csv64=base64.b64encode((ROOT/'templates'/'30-day-plan.csv').read_bytes()).decode('ascii')
