@@ -1,0 +1,24 @@
+# 人人都能成为 AI 博主
+
+> 这是 AI 酋长 Andy 写的免费开源 AI 博主实操手册。适合零基础自媒体新手、AI 工具爱好者和想从 AI+行业打造个人 IP 的人。它从选题、AI 产品实测、录屏、发布、复盘讲到商单合作，含 59 条操作卡、10 个章节和 30 天打卡，第一条视频不要求露脸。
+
+作者：AI 酋长 Andy（Andy Liu，GitHub https://github.com/AIPMAndy ，X https://x.com/AIPMAndy ，个人网站 https://metaver.vip/ ）
+
+## Docs
+
+- [README](https://github.com/AIPMAndy/HowToBeAnAICreator/blob/main/README.md): 项目说明（中文）
+- [book](https://github.com/AIPMAndy/HowToBeAnAICreator/tree/main/book): 10 章手册正文
+- [templates](https://github.com/AIPMAndy/HowToBeAnAICreator/tree/main/templates): 模板（Prompt、选题、数据表、合作）
+- [skills/ai-creator-guide/SKILL.md](https://github.com/AIPMAndy/HowToBeAnAICreator/blob/main/skills/ai-creator-guide/SKILL.md): AI Creator Guide Skill
+- [SOURCES.md](https://github.com/AIPMAndy/HowToBeAnAICreator/blob/main/SOURCES.md): 引用与免责声明
+- [AUDIT.md](https://github.com/AIPMAndy/HowToBeAnAICreator/blob/main/AUDIT.md): 对抗式审查报告
+
+## Website
+
+- [GitHub Pages](https://aipmandy.github.io/HowToBeAnAICreator/): 在线版（GitHub Pages）
+
+## Optional
+
+- [Repository](https://github.com/AIPMAndy/HowToBeAnAICreator)
+- [LICENSE](https://github.com/AIPMAndy/HowToBeAnAICreator/blob/main/LICENSE)
+- [Author on GitHub](https://github.com/AIPMAndy)
