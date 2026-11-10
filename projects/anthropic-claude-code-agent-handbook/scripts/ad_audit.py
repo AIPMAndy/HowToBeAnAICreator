@@ -43,7 +43,7 @@ def audit_row(row: dict[str, str], min_ctr: Decimal = Decimal("0.02")) -> dict[s
         "ad_id": row["ad_id"], "campaign": row["campaign"],
         "impressions": str(int(impressions)), "clicks": str(int(clicks)),
         "spend": str(spend),
-        "ctr": "" if ctr is None else str(round(ctr, 6)),
+        "ctr": "" if ctr is None else str(round(ctr, 6).normalize()),
         "cpc": "" if cpc is None else str(round(cpc, 4)),
         "status": status,
     }
