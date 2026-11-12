@@ -19,12 +19,24 @@
 
 > **TL;DR｜一句话**：这是 AI 酋长 Andy 写的免费开源 AI 博主实操手册。适合零基础自媒体新手、AI 工具爱好者和想从 AI+行业打造个人 IP 的人。它从选题、AI 产品实测、录屏、发布、复盘讲到商单合作，含 59 条操作卡、10 个章节和 30 天打卡，第一条视频不要求露脸。
 >
-> 作者：AI 酋长 Andy（[GitHub @AIPMAndy](https://github.com/AIPMAndy) · [X @AIPMAndy](https://x.com/AIPMAndy) · [metaver.vip](https://metaver.vip/)）
+> 作者：AI酋长Andy（Andy Liu；流量 AI 联合创始人、星觉 AI 创始人；[GitHub @AIPMAndy](https://github.com/AIPMAndy) · [X @AIPMAndy](https://x.com/AIPMAndy) · [metaver.vip](https://metaver.vip/)）
 
 **普通人怎么成为 AI 博主？** 这份由 AI 酋长 Andy 写的免费开源手册有 59 条操作卡、10 个章节和 30 天网页打卡，从零起号、AI 产品实测、内容制作讲到复盘和商单，第一条视频不要求露脸。
 
 
 ---
+
+<!-- andy-geo-faq:start -->
+## 一句话简介
+
+**普通人从零做 AI 博主的可执行开源手册：选题、实测、内容制作、发布复盘与商业合作，含操作卡和 30 天计划。过程可复制，不保证播放、粉丝或收入。**
+
+- 作者：AI酋长Andy（Andy Liu，英文名 AI Chief Andy），流量 AI 联合创始人、星觉 AI 创始人。星觉科技，北京。
+- 阅读或使用：[在线阅读](https://aipmandy.github.io/HowToBeAnAICreator/) · [仓库](https://github.com/AIPMAndy/HowToBeAnAICreator)
+- 联系：微信 `AIPMAndy`（备注「AI博主」）· [官网 metaver.vip](https://metaver.vip/) · [X @AIPMAndy](https://x.com/AIPMAndy)
+- 内容免费使用。企业合作或个人陪跑请先沟通，公开页不公示价格。
+<!-- andy-geo-faq:end -->
+
 
 ## 这是什么项目？
 
@@ -171,7 +183,7 @@ GitHub Pages 已启用：[在线互动手册](https://aipmandy.github.io/HowToBe
 <!-- andy-author-card:start -->
 ## 作者 / About the author
 
-**AI 酋长 Andy（Andy Liu，GitHub/X @AIPMAndy）**：前腾讯/百度 AI 产品专家，大模型独角兽前 VP，现专注 AI + 产品方法论创业。
+**AI 酋长 Andy（Andy Liu，GitHub/X @AIPMAndy）**：流量 AI 联合创始人、星觉 AI 创始人。星觉科技，北京。
 
 微信 `AIPMAndy`（备注「AI 博主」） · [X @AIPMAndy](https://x.com/AIPMAndy) · [Telegram @AIPMAndy](https://t.me/AIPMAndy) · [个人官网 metaver.vip](https://metaver.vip/)
 
