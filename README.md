@@ -17,6 +17,17 @@
 
 </div>
 
+<!-- andy-pdf-edition:start -->
+## 精美 PDF 电子书
+
+[**免费下载《人人都能成为 AI 博主》**](pdf/HowToBeAnAICreator-guide.pdf) · [直接下载 PDF](https://github.com/AIPMAndy/HowToBeAnAICreator/raw/refs/heads/main/pdf/HowToBeAnAICreator-guide.pdf)
+
+**89 页 · A5 手机阅读版 · 可点击目录 · 0.80 MB**  
+整理日期：2026-11-13。包含完整实操正文、案例、模板与原始来源；平台规则与价格沿用原资料的核查日期。
+
+**作者与服务（广告）**：AI 酋长 Andy · 个人微信 **AIPMAndy** · [个人官网](https://metaver.vip/) · [公司官网](https://www.a6no1.cn/)。免费教程可直接使用，咨询与合作自愿选择。
+<!-- andy-pdf-edition:end -->
+
 > **TL;DR｜一句话**：这是 AI 酋长 Andy 写的免费开源 AI 博主实操手册。适合零基础自媒体新手、AI 工具爱好者和想从 AI+行业打造个人 IP 的人。它从选题、AI 产品实测、录屏、发布、复盘讲到商单合作，含 59 条操作卡、10 个章节和 30 天打卡，第一条视频不要求露脸。
 >
 > 作者：AI酋长Andy（Andy Liu；流量 AI 联合创始人、星觉 AI 创始人；[GitHub @AIPMAndy](https://github.com/AIPMAndy) · [X @AIPMAndy](https://x.com/AIPMAndy) · [metaver.vip](https://metaver.vip/)）

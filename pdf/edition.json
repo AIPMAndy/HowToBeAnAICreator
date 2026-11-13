@@ -1,0 +1,39 @@
+{
+  "repo": "HowToBeAnAICreator",
+  "title": "人人都能成为 AI 博主",
+  "date": "2026-11-13",
+  "source_commit": "88abdc296b24b48769a3c14698f35601cea6191e",
+  "pages": 89,
+  "sections": 22,
+  "source_files": [
+    "book/01-定位.md",
+    "book/02-选题.md",
+    "book/03-核实.md",
+    "book/04-脚本.md",
+    "book/05-视频.md",
+    "book/06-图文.md",
+    "book/07-发布.md",
+    "book/08-复盘.md",
+    "book/09-变现.md",
+    "book/10-系统化.md",
+    "examples/ai-resume-walkthrough.md",
+    "templates/brand-deal.md",
+    "templates/prompts.md",
+    "templates/topic-scorecard.md",
+    "templates/weekly-review.md",
+    "SOURCES.md",
+    "data/cards.json"
+  ],
+  "website": "https://aipmandy.github.io/HowToBeAnAICreator/",
+  "bytes": 837602,
+  "sha256": "a1f93d9e31e5d76c3beb8b29bb6b99257b63015c61d904273631faf315bcd885",
+  "pdf_path": "pdf/HowToBeAnAICreator-guide.pdf",
+  "contacts": {
+    "personal_website": "https://metaver.vip/",
+    "company_website": "https://www.a6no1.cn/",
+    "wechat": "AIPMAndy",
+    "public_account": "AI 酋长 Andy"
+  },
+  "edition": "A5 · 黑白金实操系列 · PDF 2026.11",
+  "notes": "PDF编排日期不代表所有外部政策与价格的重新核验日期。源文件许可与案例标注继续适用。"
+}
