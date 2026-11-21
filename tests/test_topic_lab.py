@@ -13,7 +13,7 @@ class TopicLabTest(unittest.TestCase):
         self.assertEqual(d['url'],U)
         self.assertEqual(d['publisher']['url'],'https://www.a6no1.cn/')
     def test_controls(self):
-        for s in ['topicForm','exportCsv','clearAll','rows','localStorage','csv(s)','esc(s)','https:','confirm(','AIPMAndy','https://metaver.vip/services']:
+        for s in ['topicForm','exportCsv','clearAll','rows','localStorage','csv(s)','const esc=','https:','confirm(','AIPMAndy','https://metaver.vip/services']:
             self.assertIn(s,self.h)
         self.assertNotIn('fetch(',self.h)
     def test_links(self):
