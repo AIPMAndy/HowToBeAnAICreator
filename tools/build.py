@@ -95,6 +95,8 @@ homepage=re.sub(r'<script src="assets/site\.js(?:\?[^"<>]*)?" defer></script>',l
 import base64
 csv64=base64.b64encode((ROOT/'templates'/'30-day-plan.csv').read_bytes()).decode('ascii')
 homepage=homepage.replace('href="examples.html"','href="#first-example"').replace('href="downloads/30-day-plan.csv"',f'href="data:text/csv;base64,{csv64}" download="30-day-plan.csv"')
+# Offline single-file handbook must not point to a missing sibling page.
+homepage=homepage.replace('href="topic-lab.html"','href="https://aipmandy.github.io/HowToBeAnAICreator/topic-lab.html"')
 (WEB/'offline.html').write_text(homepage,encoding='utf8')
 # sync CSV for hosted website so links do not leave Pages mount root
 (WEB/'downloads').mkdir(exist_ok=True)
