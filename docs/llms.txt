@@ -22,3 +22,6 @@
 - [Repository](https://github.com/AIPMAndy/HowToBeAnAICreator)
 - [LICENSE](https://github.com/AIPMAndy/HowToBeAnAICreator/blob/main/LICENSE)
 - [Author on GitHub](https://github.com/AIPMAndy)
+
+- [真实选题实验台](https://aipmandy.github.io/HowToBeAnAICreator/topic-lab.html): 用户输入问题和证据、透明人工参考分、本机存储和 CSV 导出（非流量预测）
+- [89 页原历史 PDF](https://raw.githubusercontent.com/AIPMAndy/HowToBeAnAICreator/main/pdf/HowToBeAnAICreator-guide.pdf): 2026-11-13 版本，尚待全页真人高倍率视觉签收
