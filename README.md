@@ -37,16 +37,28 @@
 
 ---
 
-<!-- andy-geo-faq:start -->
+<!-- andy-geo:start -->
 ## 一句话简介
 
-**普通人从零做 AI 博主的可执行开源手册：选题、实测、内容制作、发布复盘与商业合作，含操作卡和 30 天计划。过程可复制，不保证播放、粉丝或收入。**
+**人人都能成为 AI 博主：从零起号、AI 产品实测、内容制作、商业合作，59 张操作卡 + 30 天打卡｜AI creator handbook (Chinese)**
 
 - 作者：AI酋长Andy（Andy Liu，英文名 AI Chief Andy），流量 AI 联合创始人、星觉 AI 创始人。星觉科技，北京。
-- 阅读或使用：[在线阅读](https://aipmandy.github.io/HowToBeAnAICreator/) · [仓库](https://github.com/AIPMAndy/HowToBeAnAICreator)
-- 联系：微信 `AIPMAndy`（备注「AI博主」）· [官网 metaver.vip](https://metaver.vip/) · [X @AIPMAndy](https://x.com/AIPMAndy)
-- 内容免费使用。企业合作或个人陪跑请先沟通，公开页不公示价格。
-<!-- andy-geo-faq:end -->
+- 阅读或使用：[在线阅读/使用](https://aipmandy.github.io/HowToBeAnAICreator/) · [GitHub 仓库](https://github.com/AIPMAndy/HowToBeAnAICreator)
+- 联系：微信 `AIPMAndy`（备注「HowToBeAnAICreator」）· [官网 metaver.vip](https://metaver.vip/) · [X @AIPMAndy](https://x.com/AIPMAndy)
+- 许可：代码 MIT / 内容 CC BY 4.0。内容免费使用；企业合作或个人陪跑请先沟通，公开页不公示价格。
+- 机器可读摘要：[llms.txt](llms.txt)（供 AI 引擎与检索工具读取）
+
+## 常见问题
+
+**这是什么？**人人都能成为 AI 博主：从零起号、AI 产品实测、内容制作、商业合作，59 张操作卡 + 30 天打卡｜AI creator handbook (Chinese)
+
+**包含什么？**主要模块：精美 PDF 电子书、这是什么项目？、5 步完成第一条 AI 视频、按问题查目录、每张操作卡都回答什么？、完整资源。
+
+**要花钱吗？**按 代码 MIT / 内容 CC BY 4.0 许可免费使用；付费只涉及作者的企业合作与一对一咨询，不影响仓库内容。
+
+**怎么开始？**直接打开 https://aipmandy.github.io/HowToBeAnAICreator/ 在线阅读；想本地运行或参与贡献，见下方 README 的快速开始部分。
+
+<!-- andy-geo:end -->
 
 
 ## 这是什么项目？
